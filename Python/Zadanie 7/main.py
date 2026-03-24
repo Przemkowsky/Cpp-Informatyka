@@ -1,0 +1,5 @@
+print("Wprowadz drogę pokonaną przez pojazd w metrach: ")
+a = int(input())
+print("Podaj czas jazdy w sekundach: ")
+b = int(input())
+print("Prędkość wyniosła: ", a/b, "m/s")

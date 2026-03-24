@@ -1,0 +1,8 @@
+print("Lp.	Typ			Typowy rozmiar w bajtach	Rozmiar\n")
+print("9	unsigned long int		4 bajty			    0 do 4294967295\n")
+print("13	long double		        10 bajtów			1.2 E-4932 do 1.2E+4932\n")
+print("17	unsigned long 		    4 bajty				Od 0 do 4294967295\n")
+print("21	Short int		        2 bajty			    Od -32768 do 32767 \n")
+print("25	Long long		        8 bajtów			Od -9223372036854775808 do 9223372036854775807\n")
+print("1	char signed     		1 bajty 			-128 do 127 \n")
+print("5	unsingned int        	4 bajty				0 do 65535\n")
